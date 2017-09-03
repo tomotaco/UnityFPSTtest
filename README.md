@@ -8,5 +8,5 @@ Facebook の [Unityユーザー助け合い所](https://www.facebook.com/groups/
 
 詳細は UnityFPSTtest/Assets/PlayerController.cs をご覧ください。
 
-![サンプル画像](images/UnityFpsTest.png)
+![サンプル画像](https://github.com/tomotaco/UnityFPSTtest/blob/master/images/UnityFPSTest.png)
 
